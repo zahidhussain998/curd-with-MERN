@@ -47,6 +47,6 @@ Feel free to contribute to this project by creating issues, suggesting improveme
 
 
 
-Please replace `https://github.com/your-username/curd-with-MERN.git` with the actual URL of your GitHub repository.
+Please replace `https://github.com/zahidhussain998/curd-with-MERN` with the actual URL of your GitHub repository.
 
 
